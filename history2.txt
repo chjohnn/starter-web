@@ -1,0 +1,470 @@
+    1  pwd
+    2  git push -u origin master
+    3  git remote add origin git@bitbucket.org:JohnChar/mygitrepo.git
+    4  git remote add origin git@bitbucket.org:JohnChar/mygitrepo.git
+    5  ls
+    6  pwd
+    7  ls
+    8  clear
+    9  git config --global user.name "John Ch"
+   10  git config user.name
+   11  git config --global user.email "ch.johnbiker@gmail.com"
+   12  git config user.email
+   13  sudo apt update
+   14  pwd
+   15  mkdir test
+   16  ls
+   17  cd test
+   18  touch index.html
+   19  ls
+   20  vim index.html 
+   21  cat index.html 
+   22  pwd 
+   23  cd ..
+   24  mkdir t
+   25  rmdir t
+   26  ls
+   27  cd t
+   28  cd test/
+   29  ls
+   30  pwd
+   31  cd ..
+   32  mkdir repos
+   33  cd repos/
+   34  mkdir MyGitRepo
+   35  cd MyGitRepo/
+   36  ls
+   37  git init
+   38  ls
+   39  la -la
+   40  ls
+   41  ls -a
+   42  touch index.html
+   43  touch styles.css
+   44  git status
+   45  git add index.html
+   46  git status
+   47  git rm --cache index.html 
+   48  git status
+   49  git add .
+   50  git status
+   51  git commit -m "Initial Commit"
+   52  git log
+   53  git branch
+   54  git branch user-authentication
+   55  git branch
+   56  git checkout user-authentication
+   57  git branch
+   58  touch auth.js
+   59  vim index.html
+   60  cat index.html 
+   61  git status
+   62  git diff index.html
+   63  clear
+   64  touch MyApp.log
+   65  get status
+   66  git status
+   67  touch Device.log
+   68  git status
+   69  touch .gitignore
+   70  vim .gitignore
+   71  ls
+   72  ls -a
+   73  git status
+   74  vim .gitignore
+   75  git status
+   76  git add .gitignore 
+   77  git add .gitignore
+   78  git status
+   79  git status
+   80  git commit -m "Add .gitignore"
+   81  git add .
+   82  git status
+   83  git commit -m "Complete user authentication"
+   84  git status
+   85  git checkout master
+   86  git status
+   87  git merge user-authentication
+   88  git status
+   89  ls
+   90  ls -a
+   91  git status
+   92  git log
+   93  git tag  -a v1.0.0 -m "Version 1.0.0 release"
+   94  git log
+   95  git tag
+   96  git log
+   97  pwd
+   98  cd ..
+   99  ls
+  100  git clone https://JohnChar@bitbucket.org/JohnChar/hellobitbucket.git
+  101  ls
+  102  cd  hellobitbucket/
+  103  ls -a
+  104  touch helloworld.txt
+  105  vim hellobitbucket.txt
+  106  cat hello
+  107  cat hellobitbucket.txt 
+  108  git status
+  109  git add .
+  110  git status
+  111  git commit -m "Create hello text files"
+  112  git status
+  113  git branch
+  114  git push origin master
+  115  git status
+  116  git pull
+  117  cat README.md 
+  118  git fetch
+  119  git merge
+  120  ssh-keygen
+  121  ls
+  122  cat ~/.ssh
+  123  ls ~/.ssh
+  124  clip <~/.ssh/id_rsa.pub
+  125  cat < ~/.ssh/id_rsa.pub
+  126  ssh -T git@bitbucket.org
+  127  git version
+  128  pwd
+  129  ls
+  130  cd repos/
+  131  cd ..
+  132  ls
+  133  mkdir projects
+  134  cd projects/
+  135  ls
+  136  pwd
+  137  git version
+  138  pwd
+  139  git config
+  140  git config user.name
+  141  git config user.email
+  142  git config --global user.email
+  143  git config --global list
+  144  ls -la
+  145  git clone https://github.com/chjohnn/github-demo.git
+  146  git clone fatal: protocol 'https' is not supported
+  147  clear
+  148  git clone fatal: protocol 'https' is not supported
+  149  git clone https://github.com/chjohnn/github-demo.git
+  150  ls
+  151  cd github-demo/
+  152  ls
+  153  git status
+  154  echo "test git quick start demo" >> start.txt
+  155  ls
+  156  cat start.txt 
+  157  git status
+  158  clear
+  159  git status
+  160  git add start.txt 
+  161  git status
+  162  git commit -m "Adding start text file"
+  163  git status
+  164  git push origin master
+  165  git push origin main
+  166  git branch
+  167  notepad++ 
+  168  exit
+  169  notepad++
+  170  pwd
+  171  notepad++ .bash_profile
+  172  cat .bash_profile 
+  173  exit
+  174  npp
+  175  notepad++
+  176  npp
+  177  notepad++ .bash_profile
+  178  npp
+  179  cat ~/.gitcnfig
+  180  cat ~/.gitconfig 
+  181  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  182  cat ~/.gitconfig 
+  183  git config --global --list
+  184  npp
+  185  git config --global -e
+  186  clear
+  187  pwd
+  188  cd projects/
+  189  git init fresh-project
+  190  ls
+  191  cd fresh-project/
+  192  ls
+  193  ls -la
+  194  git status
+  195  notpad++ hipster.txt
+  196  notepad++ hipster.txt
+  197  cat config
+  198  git config --global --list#
+  199  git config --global --list
+  200  git status
+  201  git add hipster.txt
+  202  git status
+  203  git commit 
+  204  git status
+  205  cd ..
+  206  rm -rf fresh-project/
+  207  ls
+  208  git clone git clone https://github.com/dracula/notepad-plus-plus.git
+  209  git clone git clone https://github.com/dracula/notepad-plus-plus.git
+  210  git clone https://github.com/dracula/notepad-plus-plus.git
+  211  notepad++
+  212  mkdir initializr
+  213  mv initializr web-project
+  214  ls
+  215  cd web-project/
+  216  touch folder1
+  217  touch folder2
+  218  touch file1
+  219  touch file2
+  220  git init
+  221  ls
+  222  mv folder1 file3
+  223  mv folder2 file4
+  224  ls
+  225  git status
+  226  touch robots.txt
+  227  git status
+  228  git add .
+  229  git status
+  230  git commit -m "My first commit, inline"
+  231  git status
+  232  ls -la
+  233  rm -rf robots.txt 
+  234  git status
+  235  ls
+  236  cd ..
+  237  ls
+  238  git clone https://github.com/chjohnn/starter-web.git
+  239  ls
+  240  cd starter-web/
+  241  git branch
+  242  ls -la
+  243  ls .git/
+  244  ls .git/ -la
+  245  git status
+  246  pwd
+  247  ls
+  248  notepad++  hipster.txt
+  249  git status
+  250  git add hipster.txt 
+  251  git status
+  252  git commit -m "Add hipser.txt file"
+  253  git status
+  254  git push
+  255  git pull origin master
+  256  git push
+  257  notepad++ ~/.config
+  258  notepad++ ~/.gitconfig
+  259  ls
+  260  git stats
+  261  git status
+  262  notepad++  hipster.txt
+  263  git status
+  264  git commit -am "Adding more text"
+  265  git status
+  266  git status
+  267  git ls
+  268  git ls-files
+  269  mkdir level1
+  270  cd level1/
+  271  touch file1
+  272  touch file2
+  273  touch file3
+  274  cd ..
+  275  ls
+  276  git add .
+  277  git status
+  278  git commit -m "Add recursivelly files"
+  279  git status
+  280  git push
+  281  git reset HEAD hipster.txt
+  282  git status
+  283  notpad++ hipster.txt 
+  284  notepad++ hipster.txt 
+  285  git status
+  286  git checkout -- hipster.txt
+  287  git status
+  288  notepad++ hipster.txt 
+  289  git status
+  290  git checkout -- hipster.txt
+  291  git status
+  292  notepad++ hipster.txt 
+  293  git mv hipster.txt hipsterNEW.txt 
+  294  git status
+  295  git commit -m "Renamed file"
+  296  git statu
+  297  git status
+  298  ls
+  299  git status
+  300  git add -A
+  301  git status
+  302  git mv hipsterNEW.txt hipster.txt 
+  303  git status
+  304  git commit -m "renamed"
+  305  ls
+  306  touch john.txt
+  307  git status
+  308  notepad++ john.txt 
+  309  git status
+  310  git rm john.txt 
+  311  rm john.txt 
+  312  git status
+  313  echo "nfldsjnflsdnfdlsfndsljfnlj nljndfljsdnfdsljfn" >> john.txt 
+  314  cat john.txt 
+  315  git status
+  316  git ls-files
+  317  git add .
+  318  git status
+  319  git rm robots.txt 
+  320  git status
+  321  l
+  322  ls
+  323  git commit -m "deleting new file and insert new"
+  324  git status
+  325  git ls-files
+  326  git rm hipster.txt 
+  327  git statu
+  328  git ls-files
+  329  git status
+  330  git reset HEAD hipster.txt
+  331  git status
+  332  git ls-files
+  333  ls
+  334  git status
+  335  git checkout --  hipster.txt
+  336  ls
+  337  git status
+  338  cat hipster.txt 
+  339  clear
+  340  git status
+  341  git history
+  342  history
+  343  clear
+  344  rm hipster.txt
+  345  git status
+  346  ls
+  347  git restore hipster.txt
+  348  git status
+  349  ls
+  350  rm hipster.txt
+  351  git status
+  352  git commit -m "Deleted hipster"
+  353  git add -a
+  354  git commit -a
+  355  git status
+  356  ls
+  357  git log
+  358  git help log
+  359  ld
+  360  ls
+  361  git log
+  362  clear
+  363  git push
+  364  git pull
+  365  git status
+  366  git log --abbreave
+  367  git log --abbreve-commit
+  368  git log --abbrev-commit
+  369  clear
+  370  git log --oneline --graph --decorate
+  371  history > history.txt
+  372  cat history.txt 
+  373  p history.xt c://jo
+  374  clear
+  375  cp history.txt C:\Users\chjoh\Desktop
+  376  pwd
+  377  cp history.txt c/Users/chjoh/Desktop
+  378  cp history.txt c:/Users/chjoh/Desktop
+  379  git show
+  380  git config --global alias.hist "log --all --graph --decorate --oneline"
+  381  hist
+  382  git hist
+  383  git npp
+  384  clear
+  385  git hist
+  386  history > history.txt#
+  387  history > history.txt
+  388  notepad++ ~/gitconfig
+  389  notepad++ ~/.gitconfig
+  390  notepad++ .gitignore
+  391  ls -la
+  392  git status
+  393  rm history.txt
+  394  history > history.txt
+  395  rm history#.txt
+  396  ls
+  397  rm history.txt#
+  398  git status
+  399  git add .gitignore 
+  400  git commit -m "Add .gitingore file"
+  401  git status 
+  402  git rm \302\226C\357\200\272UserschjohDesktop
+  403  git rm "\302\226C\357\200\272UserschjohDesktop"
+  404  notepad++ .gitignore
+  405  git status 
+  406  git status
+  407  git commit -m "add data insite .gitignore"
+  408  git commit -m "add data insite .gitignore"
+  409  git status
+  410  git add .gitignore 
+  411  git commit -m "add data insite .gitignore"
+  412  git pull origin master
+  413  git push origin master
+  414  p4merge
+  415  p4merge
+  416  git config --global merge.tool p4merge
+  417  git config --global mergetool.p4merge. path "C:/Program Files/Perforce/p4merge.exe"
+  418  git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  419  git config --global mergetool.prompt false
+  420  git config --global diff.tool p4merge
+  421  git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  422  git config --global difftool.prompt false
+  423  git config --global --list
+  424  git config --global -e
+  425  history > history.txt
+  426  cat history.txt 
+  427  clear
+  428  ls
+  429  pwd
+  430  cd pr
+  431  cd projects/
+  432  ls
+  433  cd starter-web/
+  434  ls
+  435  notepad++ README.md
+  436  git status
+  437  notepad++ README.md
+  438  git commit -ma "Add new section deployment" 
+  439  git status
+  440  git commit -am "Add new section deployment" 
+  441  git status
+  442  git push
+  443  notepad++ README.md
+  444  git commit -am "Add new description" 
+  445  git push
+  446  git status
+  447  git add README.md 
+  448  git status
+  449  notepad++ README.md
+  450  git status
+  451  notepad++ README.md
+  452  git status
+  453  git  add README.md 
+  454  git status
+  455  notepad++ README.md
+  456  git status
+  457  git diff
+  458  git difftool 
+  459  git status
+  460  git diff HEAD
+  461  git difftool  HEAD
+  462  history > history.txt
+  463  git diff --staged HEAD
+  464  git difftool  --staged HEAD
+  465  ls
+  466  notepad++ simple.html 
+  467  git status
+  468  git diff
+  469  git diff -- README.md
+  470  history > history.txt
