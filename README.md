@@ -9,8 +9,7 @@ new status before push
 
 ## Purpose
 
-the purpose of this project is to
-
+the purpose of this project is to, more changes from 
 
 ## Deployment
 
