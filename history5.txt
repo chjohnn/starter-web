@@ -1,0 +1,500 @@
+  159  git status
+  160  git add start.txt 
+  161  git status
+  162  git commit -m "Adding start text file"
+  163  git status
+  164  git push origin master
+  165  git push origin main
+  166  git branch
+  167  notepad++ 
+  168  exit
+  169  notepad++
+  170  pwd
+  171  notepad++ .bash_profile
+  172  cat .bash_profile 
+  173  exit
+  174  npp
+  175  notepad++
+  176  npp
+  177  notepad++ .bash_profile
+  178  npp
+  179  cat ~/.gitcnfig
+  180  cat ~/.gitconfig 
+  181  git config --global core.editor "notepad++.exe -multiInst -nosession"
+  182  cat ~/.gitconfig 
+  183  git config --global --list
+  184  npp
+  185  git config --global -e
+  186  clear
+  187  pwd
+  188  cd projects/
+  189  git init fresh-project
+  190  ls
+  191  cd fresh-project/
+  192  ls
+  193  ls -la
+  194  git status
+  195  notpad++ hipster.txt
+  196  notepad++ hipster.txt
+  197  cat config
+  198  git config --global --list#
+  199  git config --global --list
+  200  git status
+  201  git add hipster.txt
+  202  git status
+  203  git commit 
+  204  git status
+  205  cd ..
+  206  rm -rf fresh-project/
+  207  ls
+  208  git clone git clone https://github.com/dracula/notepad-plus-plus.git
+  209  git clone git clone https://github.com/dracula/notepad-plus-plus.git
+  210  git clone https://github.com/dracula/notepad-plus-plus.git
+  211  notepad++
+  212  mkdir initializr
+  213  mv initializr web-project
+  214  ls
+  215  cd web-project/
+  216  touch folder1
+  217  touch folder2
+  218  touch file1
+  219  touch file2
+  220  git init
+  221  ls
+  222  mv folder1 file3
+  223  mv folder2 file4
+  224  ls
+  225  git status
+  226  touch robots.txt
+  227  git status
+  228  git add .
+  229  git status
+  230  git commit -m "My first commit, inline"
+  231  git status
+  232  ls -la
+  233  rm -rf robots.txt 
+  234  git status
+  235  ls
+  236  cd ..
+  237  ls
+  238  git clone https://github.com/chjohnn/starter-web.git
+  239  ls
+  240  cd starter-web/
+  241  git branch
+  242  ls -la
+  243  ls .git/
+  244  ls .git/ -la
+  245  git status
+  246  pwd
+  247  ls
+  248  notepad++  hipster.txt
+  249  git status
+  250  git add hipster.txt 
+  251  git status
+  252  git commit -m "Add hipser.txt file"
+  253  git status
+  254  git push
+  255  git pull origin master
+  256  git push
+  257  notepad++ ~/.config
+  258  notepad++ ~/.gitconfig
+  259  ls
+  260  git stats
+  261  git status
+  262  notepad++  hipster.txt
+  263  git status
+  264  git commit -am "Adding more text"
+  265  git status
+  266  git status
+  267  git ls
+  268  git ls-files
+  269  mkdir level1
+  270  cd level1/
+  271  touch file1
+  272  touch file2
+  273  touch file3
+  274  cd ..
+  275  ls
+  276  git add .
+  277  git status
+  278  git commit -m "Add recursivelly files"
+  279  git status
+  280  git push
+  281  git reset HEAD hipster.txt
+  282  git status
+  283  notpad++ hipster.txt 
+  284  notepad++ hipster.txt 
+  285  git status
+  286  git checkout -- hipster.txt
+  287  git status
+  288  notepad++ hipster.txt 
+  289  git status
+  290  git checkout -- hipster.txt
+  291  git status
+  292  notepad++ hipster.txt 
+  293  git mv hipster.txt hipsterNEW.txt 
+  294  git status
+  295  git commit -m "Renamed file"
+  296  git statu
+  297  git status
+  298  ls
+  299  git status
+  300  git add -A
+  301  git status
+  302  git mv hipsterNEW.txt hipster.txt 
+  303  git status
+  304  git commit -m "renamed"
+  305  ls
+  306  touch john.txt
+  307  git status
+  308  notepad++ john.txt 
+  309  git status
+  310  git rm john.txt 
+  311  rm john.txt 
+  312  git status
+  313  echo "nfldsjnflsdnfdlsfndsljfnlj nljndfljsdnfdsljfn" >> john.txt 
+  314  cat john.txt 
+  315  git status
+  316  git ls-files
+  317  git add .
+  318  git status
+  319  git rm robots.txt 
+  320  git status
+  321  l
+  322  ls
+  323  git commit -m "deleting new file and insert new"
+  324  git status
+  325  git ls-files
+  326  git rm hipster.txt 
+  327  git statu
+  328  git ls-files
+  329  git status
+  330  git reset HEAD hipster.txt
+  331  git status
+  332  git ls-files
+  333  ls
+  334  git status
+  335  git checkout --  hipster.txt
+  336  ls
+  337  git status
+  338  cat hipster.txt 
+  339  clear
+  340  git status
+  341  git history
+  342  history
+  343  clear
+  344  rm hipster.txt
+  345  git status
+  346  ls
+  347  git restore hipster.txt
+  348  git status
+  349  ls
+  350  rm hipster.txt
+  351  git status
+  352  git commit -m "Deleted hipster"
+  353  git add -a
+  354  git commit -a
+  355  git status
+  356  ls
+  357  git log
+  358  git help log
+  359  ld
+  360  ls
+  361  git log
+  362  clear
+  363  git push
+  364  git pull
+  365  git status
+  366  git log --abbreave
+  367  git log --abbreve-commit
+  368  git log --abbrev-commit
+  369  clear
+  370  git log --oneline --graph --decorate
+  371  history > history.txt
+  372  cat history.txt 
+  373  p history.xt c://jo
+  374  clear
+  375  cp history.txt C:\Users\chjoh\Desktop
+  376  pwd
+  377  cp history.txt c/Users/chjoh/Desktop
+  378  cp history.txt c:/Users/chjoh/Desktop
+  379  git show
+  380  git config --global alias.hist "log --all --graph --decorate --oneline"
+  381  hist
+  382  git hist
+  383  git npp
+  384  clear
+  385  git hist
+  386  history > history.txt#
+  387  history > history.txt
+  388  notepad++ ~/gitconfig
+  389  notepad++ ~/.gitconfig
+  390  notepad++ .gitignore
+  391  ls -la
+  392  git status
+  393  rm history.txt
+  394  history > history.txt
+  395  rm history#.txt
+  396  ls
+  397  rm history.txt#
+  398  git status
+  399  git add .gitignore 
+  400  git commit -m "Add .gitingore file"
+  401  git status 
+  402  git rm \302\226C\357\200\272UserschjohDesktop
+  403  git rm "\302\226C\357\200\272UserschjohDesktop"
+  404  notepad++ .gitignore
+  405  git status 
+  406  git status
+  407  git commit -m "add data insite .gitignore"
+  408  git commit -m "add data insite .gitignore"
+  409  git status
+  410  git add .gitignore 
+  411  git commit -m "add data insite .gitignore"
+  412  git pull origin master
+  413  git push origin master
+  414  p4merge
+  415  p4merge
+  416  git config --global merge.tool p4merge
+  417  git config --global mergetool.p4merge. path "C:/Program Files/Perforce/p4merge.exe"
+  418  git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  419  git config --global mergetool.prompt false
+  420  git config --global diff.tool p4merge
+  421  git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  422  git config --global difftool.prompt false
+  423  git config --global --list
+  424  git config --global -e
+  425  history > history.txt
+  426  cat history.txt 
+  427  clear
+  428  ls
+  429  pwd
+  430  cd pr
+  431  cd projects/
+  432  ls
+  433  cd starter-web/
+  434  ls
+  435  notepad++ README.md
+  436  git status
+  437  notepad++ README.md
+  438  git commit -ma "Add new section deployment" 
+  439  git status
+  440  git commit -am "Add new section deployment" 
+  441  git status
+  442  git push
+  443  notepad++ README.md
+  444  git commit -am "Add new description" 
+  445  git push
+  446  git status
+  447  git add README.md 
+  448  git status
+  449  notepad++ README.md
+  450  git status
+  451  notepad++ README.md
+  452  git status
+  453  git  add README.md 
+  454  git status
+  455  notepad++ README.md
+  456  git status
+  457  git diff
+  458  git difftool 
+  459  git status
+  460  git diff HEAD
+  461  git difftool  HEAD
+  462  history > history.txt
+  463  git diff --staged HEAD
+  464  git difftool  --staged HEAD
+  465  ls
+  466  notepad++ simple.html 
+  467  git status
+  468  git diff
+  469  git diff -- README.md
+  470  history > history.txt
+  471  mv history.txt  history2.txt 
+  472  git difftool  -- README.md
+  473  git difftool
+  474  clear
+  475  git log --oneline 
+  476  git log --oneline 
+  477  git diff HEAD HEAD^
+  478  git difftool  HEAD HEAD^
+  479  git diff master origin/master
+  480  git commit
+  481  git push
+  482  git diff master origin/master
+  483  git status
+  484  git add simple.html 
+  485  git commit -m "aa"
+  486  git diff master origin/master
+  487  git add .
+  488  git pull
+  489  git add .
+  490  git commot -am "commit addding/everything"
+  491  git commit -am "commit addding/everything"
+  492  git diff master origin/master
+  493  git push
+  494  git status
+  495  git pull
+  496  git push
+  497  git status
+  498  git diff master origin/master
+  499  git branch -a
+  500  git branch mynewbranch
+  501  git branch
+  502  git branch -a
+  503  history > history.txt
+  504  git checkout mynewbranch
+  505  git branch
+  506  git log --oneline --decorate
+  507  git checkout master
+  508  git branch -m mynewbranch newbranch
+  509  git branch
+  510  git checkout
+  511  git branch -d newbranch 
+  512  git branch
+  513  clear
+  514  git checkout -b title-change
+  515  git status
+  516  ls
+  517  notepad++ simple.html 
+  518  git status
+  519  git commit -am "changing title of html file"
+  520  git status
+  521  git log --oneline 
+  522  git checkout master
+  523  git status
+  524  git checkout title-change 
+  525  git status
+  526  git checkout title-change 
+  527  git checkout master 
+  528  git diff master title-change 
+  529  git difftool  master title-change 
+  530  git merge title-change 
+  531  git diff master title-change 
+  532  git log --oneline --graph -decorate
+  533  git log --oneline --graph --decorate
+  534  git branch
+  535  git branch -d title-change 
+  536  git branch
+  537  git log --oneline --graph --decorate
+  538  git branch
+  539  git checkout -b add-copyright
+  540  git branch
+  541  notepad++ simple.html 
+  542  git status
+  543  git commit -am "Adding copying notice"
+  544  notepad++ README.md 
+  545  git commit -am "Adding copying notice html"
+  546  git status
+  547  git log
+  548  git log --oneline --graph
+  549  git checkout master 
+  550  git merge add-copyright --no-ff
+  551  git log --oneline --graph
+  552  git branch -d add-copyright 
+  553  git branc
+  554  git branch
+  555  git log --oneline --graph
+  556  clear
+  557  history > history.txt
+  558  git status
+  559  git branch -b simple-changes
+  560  git checout -b simple-changes
+  561  git checkout  -b simple-changes
+  562  notepad++ humans.txt 
+  563  git status
+  564  git commit -am "hummans.txt edition"
+  565  git checkout master
+  566  git status
+  567  notepad++ README.md 
+  568  git commit -am "adding instrunction on how to contribute"
+  569  git log --oneline --graph --decorate --all
+  570  git branch
+  571  git merge simple-changes  -m  "Merging changes from simple-changes branch"
+  572  git log --oneline --graph --decorate --all
+  573  git branch -d simple-changes 
+  574  git branch
+  575  git status
+  576  git log --oneline --graph --decorate --all
+  577  notepad++ humans.txt 
+  578  notepad++ README.md 
+  579  git status
+  580  git commit -m "fork spelling correction"
+  581  git commit -am "fork spelling correction"
+  582  git status
+  583  clear
+  584  git status
+  585  git pull
+  586  git push
+  587  git status
+  588  git status
+  589  clear
+  590  git status
+  591  ls
+  592  git checkout -b feature
+  593  notepad++ humans.txt 
+  594  git status
+  595  git commit -am "Thank to all students"
+  596  git status
+  597  git checkout master 
+  598  notepad++ README.md 
+  599  git status
+  600  git commit -am "Adding one line to purpose in README"
+  601  git log --oneline --graph --decorate --all
+  602  clear
+  603  git log --oneline --graph --decorate --all
+  604  git checkout feature 
+  605  git rebase master 
+  606  git status
+  607  git log --oneline --graph --decorate --all
+  608  notepad++ README.md 
+  609  git status
+  610  git commit -am "Adding another change after rebase"
+  611  git log --oneline --graph --decorate --all
+  612  git checkout master
+  613  git status
+  614  notepad++ README.md 
+  615  git status
+  616  git diff master feature 
+  617  git difftool  master feature 
+  618  git merge feature 
+  619  git log --oneline --graph --decorate --all
+  620  git branch -d feature 
+  621  git beanch
+  622  notepad++ README.md 
+  623  git status
+  624  notepad++ simple.html 
+  625  git commit -am "mb before rebase"
+  626  git checkout -b bigtrouble
+  627  git status
+  628  notepad++ simple.html 
+  629  git commit -am "trouble to simple.html"
+  630  git checkout master
+  631  notepad++ simple.html 
+  632  git commit -am "conflicting changes"
+  633  git log --oneline --graph --decorate --all
+  634  git status
+  635  git checkout bigtrouble 
+  636  git difftool master bigtrouble 
+  637  git rebase master
+  638  git rebase --abort
+  639  git status
+  640  git log --oneline --graph --decorate --all
+  641  git rebase master 
+  642  git mergetool
+  643  git status
+  644  git add simple.html
+  645  git status
+  646  git mergetool
+  647  git status
+  648  git rebase --continue 
+  649  git log --oneline --graph --decorate --all
+  650  notepad++ simple.html 
+  651  git commit -am "adding changes after rebasing conflict"
+  652  git status
+  653  notepad++ .gitignore 
+  654  git status
+  655  git commit -am "add *.origin files in .gitingore"
+  656  git status
+  657  git log --oneline --graph --decorate --all
+  658  history > history.txt 
