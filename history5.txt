@@ -1,81 +1,3 @@
-  159  git status
-  160  git add start.txt 
-  161  git status
-  162  git commit -m "Adding start text file"
-  163  git status
-  164  git push origin master
-  165  git push origin main
-  166  git branch
-  167  notepad++ 
-  168  exit
-  169  notepad++
-  170  pwd
-  171  notepad++ .bash_profile
-  172  cat .bash_profile 
-  173  exit
-  174  npp
-  175  notepad++
-  176  npp
-  177  notepad++ .bash_profile
-  178  npp
-  179  cat ~/.gitcnfig
-  180  cat ~/.gitconfig 
-  181  git config --global core.editor "notepad++.exe -multiInst -nosession"
-  182  cat ~/.gitconfig 
-  183  git config --global --list
-  184  npp
-  185  git config --global -e
-  186  clear
-  187  pwd
-  188  cd projects/
-  189  git init fresh-project
-  190  ls
-  191  cd fresh-project/
-  192  ls
-  193  ls -la
-  194  git status
-  195  notpad++ hipster.txt
-  196  notepad++ hipster.txt
-  197  cat config
-  198  git config --global --list#
-  199  git config --global --list
-  200  git status
-  201  git add hipster.txt
-  202  git status
-  203  git commit 
-  204  git status
-  205  cd ..
-  206  rm -rf fresh-project/
-  207  ls
-  208  git clone git clone https://github.com/dracula/notepad-plus-plus.git
-  209  git clone git clone https://github.com/dracula/notepad-plus-plus.git
-  210  git clone https://github.com/dracula/notepad-plus-plus.git
-  211  notepad++
-  212  mkdir initializr
-  213  mv initializr web-project
-  214  ls
-  215  cd web-project/
-  216  touch folder1
-  217  touch folder2
-  218  touch file1
-  219  touch file2
-  220  git init
-  221  ls
-  222  mv folder1 file3
-  223  mv folder2 file4
-  224  ls
-  225  git status
-  226  touch robots.txt
-  227  git status
-  228  git add .
-  229  git status
-  230  git commit -m "My first commit, inline"
-  231  git status
-  232  ls -la
-  233  rm -rf robots.txt 
-  234  git status
-  235  ls
-  236  cd ..
   237  ls
   238  git clone https://github.com/chjohnn/starter-web.git
   239  ls
@@ -498,3 +420,81 @@
   656  git status
   657  git log --oneline --graph --decorate --all
   658  history > history.txt 
+  659  git checkout master
+  660  git merge bigtrouble 
+  661  git status
+  662  git checkout -d bigtroubl 
+  663  git log --oneline --graph --decorate --all
+  664  git status 
+  665  git pull origin master
+  666  git push origin master
+  667  git status
+  668  notepad++ simple.html
+  669  git commit -am "update simple.html"
+  670  git status
+  671  git status
+  672  git fetch origin master
+  673  git status
+  674  git pull --rebase origin master
+  675  git status
+  676  git log --oneline --graph --decorate --all
+  677  git push
+  678  git status
+  679  clear
+  680  git status
+  681  git checkout -d bigtrouble 
+  682  git status
+  683  git status
+  684  git checkout -d bigtrouble 
+  685  ls
+  686  ls -l
+  687  git pull origin master
+  688  git push
+  689  git status
+  690  notepad++ .gitignore 
+  691  git status
+  692  git commit -am ".gitingore"
+  693  git status
+  694  git add simple.html.orig 
+  695  git commit -am ".origin"
+  696  git status
+  697  git pull
+  698  git pull origin master
+  699  git checkout master
+  700  git status
+  701  git pull
+  702  git pushh
+  703  git push
+  704  git status
+  705  git branch 
+  706  git checkout -d bigtrouble 
+  707  git branch 
+  708  git checkout master 
+  709  git merge bigtrouble 
+  710  git status
+  711  git branch
+  712  git stash
+  713  notepad++ simple.html 
+  714  git status
+  715  git stash
+  716  git status
+  717  notepad++ simple.html 
+  718  git status
+  719  notepad++ simple.html
+  720  notepad++ README.md 
+  721  git commit -am "COPYRIGHT QUICK#"
+  722  git status
+  723  git stach apply
+  724  git stash apply
+  725  git status
+  726  notepad++ simple.html
+  727  notepad++ simple.html
+  728  git status
+  729  git commit -am "after apply stash"
+  730  git status
+  731  git stash list
+  732  git stash drop
+  733  git stash list
+  734  mv history.txt history5.txt
+  735  history > history
+  736  history > history.txt
