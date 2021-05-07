@@ -12,6 +12,8 @@ new status before push
 ## Deployment
 
 
-## John
+### John
 
 Sample website with plenty of files for demos.. hello word
+
+COPYRIGHT
