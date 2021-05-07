@@ -18,4 +18,4 @@ Sample website with plenty of files for demos.. hello word
 
 COPYRIGHT
 
-please forge this repocitory
+please FORK this repocitory
